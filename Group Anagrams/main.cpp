@@ -1,5 +1,5 @@
 /*By Cebastian Santiago
-* Leetcode 242
+* Leetcode 49
 */
 #include<iostream>
 #include<algorithm>
